@@ -67,7 +67,7 @@ export const projects = [
     description:
       "Advanced Auth with Node for the Back-end and React for the Front-end. It allows you to create an user, login and reset the password with an email using JWToken. This application was made with Node, Express, MongoDB, Passport & bcrypt.",
     images: ["/images/Node-Auth/Node-Auth1.png", "/images/Node-Auth/Node-Auth2.png", "/images/Node-Auth/Node-Auth3.png", "/images/Node-Auth/Node-Auth4.png"],
-    tags: ["React", "NodeJS"],
+    tags: ["React", "NodeJS", 'MongoDB', 'Passport', 'bcrypt'],
     source: "https://github.com/NickooMar/Node_advanced_auth",
     id: 7,
   },
